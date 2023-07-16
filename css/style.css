@@ -1,0 +1,66 @@
+h1{
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav{
+    position: sticky;
+    background-color: lightgray;
+    width: 100%;
+}
+
+.navigation {
+    display: inline-block;
+    padding: 20px 48px;
+    background-color: gray;
+    color: white;
+}
+
+#sideBar{
+    float: left;
+    width: 30%;
+    height: 500px;
+    background-color: lightskyblue;
+}
+#main{
+    float: right;
+    width: 65%;
+    height: 460px;
+    background-color: lightgray;
+    padding: 20px;
+}
+#profile{
+    height: 30%;
+    /*background-color: darkorange;*/
+    text-align: center;
+    padding: 20px;
+}
+#stats{
+    height: 54%;
+    /*background-color: brown;*/
+    padding: 20px;
+}
+
+#statsList{
+    padding: 0 20px;
+    line-height: 30px;
+}
+
+#mainImage{
+    float: left;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+#photos{
+    padding: 20px;
+}
+
+#petPhoto{ 
+    display: inline-block;
+   
+
+}
+
+
+
+
